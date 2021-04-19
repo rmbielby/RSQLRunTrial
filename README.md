@@ -1,5 +1,7 @@
 # RSQLRunTrial
 
+## List of Tutorial Steps
+
 - [ ] Initialize new GitHub repository/R Project.
 
    - [ ] Set .gitignore to R.
