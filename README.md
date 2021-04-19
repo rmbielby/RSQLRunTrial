@@ -10,7 +10,9 @@
    
 - [ ] Set up environment
    
+   - [ ] Copy this task list across!
    - [ ] Create, R, sql and data folders.
+   - [ ] Copy existing SQL scripts across.
    - [ ] Copy data across.
    - [ ] Create r/utils.r file
 
@@ -24,3 +26,10 @@
       - [ ] Run SQL script.
       - [ ] Write results out.
       - [ ] Close connection.
+
+- [ ] Write open and close server connection code & load packages script.
+- [ ] Write upload to SQL code 
+- [ ] Write runSQLscript code
+- [ ] Write outputResults code
+   - [ ] Include some output formatting
+- [ ] Try with another code with different year.
