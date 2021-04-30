@@ -11,3 +11,4 @@ open_connection <- function(server, database){
   print(con)
   return(con)
 }
+
