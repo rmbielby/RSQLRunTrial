@@ -1,25 +1,12 @@
 # FilmScores_process.r
-# R.M Bielby
+# Rich Bielby
 # 19th April 2021
 # R script to demo calling and running an SQL script.
-
+# Run with the command:
+# Rscript
 
 library(RODBC)
 source('R/utils.R')
-
-upload_film_data <- function(connection, year, datadir='./data/',overwrite=TRUE){
-  table_stem   <- 'HomeCinemaScores'
-  home_ratings_file <- paste(datadir,table_stem,'_',year,'.csv',sep='')
-  cat('Trying to read in from',home_ratings_file,fill=TRUE)
-  home_ratings <- read.csv(home_ratings_file)
-  sqlTableName <- paste('dbo.',table_stem,'_',year,sep='')
-  if (!(substr(sqlTableName,5,100) %in% sqlTables(connection)$TABLE_NAME) | overwrite==TRUE){
-      sqlSave(connection, home_ratings, tablename=sqlTableName, rownames=FALSE, fast=TRUE, nastring='NA')
-  } else {
-      cat("Table ",sqlTableName," already present (overwrite=",overwrite,").",sep="",fill=TRUE)
-  }
-  
-}
 
 
 args          <- commandArgs(trailingOnly=TRUE)
@@ -29,7 +16,10 @@ year          <- args[3]
 
 connection    <- open_connection(server, database)
 
-upload_status <- upload_film_data(connection, year)
+fn_revbal     <- paste('CFR_RevenueBalance_Schools_NE_',year,'.csv',sep='')
+tb_revbal     <- paste('CFR_RevenueBalance_NE_',year,sep='')
+
+upload_status <- upload_data(connection, fn_revbal, tb_revbal)
 
 
 

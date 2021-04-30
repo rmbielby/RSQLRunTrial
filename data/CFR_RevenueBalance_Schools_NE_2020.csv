@@ -1,0 +1,767 @@
+﻿Time period,Time identifier,Geographic level,Country name,Country code,Region name,Region code,LA name,LA code (old),LA code (new),School phase,School Name,School LA Estab ID,URN,Total Revenue Balance (£),B01 Committed revenue balance (£),B02 Uncommitted revenue balance (£),B06 Community focussed extended school revenue balance (£),Total revenue balance as a % of total income
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Nursery,Bensham Grove Nursery School,3901000,108320,2273.22,2273.22,0,0,0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Carr Hill Community Primary School,3902008,108321,250498,250498,0,0,13.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Kelvin Grove Community Primary School,3902012,108323,159978.6,159978.6,0,0,8.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,South Street Community Primary School,3902036,108326,3665.68,3665.68,0,0,0.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Bede Community Primary School,3902039,108327,77397.09,77397.09,0,0,5.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Oakfield Junior School,3902049,108329,72099.28,72099.28,0,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Larkspur Community Primary School,3902051,108330,81010.28,81010.28,0,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Oakfield Infant School,3902055,108332,36314.62,36314.62,0,0,4.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Ravensworth Terrace Primary School,3902056,108333,-112481.2,0,-112481.2,0,-7.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Portobello Primary School,3902162,108336,53720.02,53720.02,0,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Birtley East Community Primary School,3902163,108337,60666.12,60666.12,0,0,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Dunston Hill Community Primary School,3902164,108338,70139.64,70139.64,0,0,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Emmaville Primary School,3902167,108339,79024.97,79024.97,0,0,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,High Spen Primary School,3902168,108340,41909.97,41909.97,0,0,4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Swalwell Primary School,3902172,108342,119964.8,119964.8,0,0,10.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Winlaton West Lane Community Primary School,3902177,108346,122114.4,122114.4,0,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Greenside Primary School,3902181,108348,5086.69,5086.69,0,0,0.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Blaydon West Primary School,3902182,108349,134058.1,134058.1,0,0,13
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Front Street Community Primary School,3902184,108350,177294.3,177294.3,0,0,9
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Highfield Community Primary School,3902186,108351,73948.97,73948.97,0,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Ryton Community Infant School,3902188,108352,-34035.69,0,-34035.69,0,-5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Ryton Junior School,3902193,108355,-21805.92,0,-21805.92,0,-2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Washingwell Community Primary School,3902194,108356,5088.06,5088.06,0,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Bill Quay Primary School,3902197,108357,-47015.85,0,-47015.85,0,-4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Falla Park Community Primary School,3902198,108358,70813.52,70813.52,0,0,5.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Brandling Primary School,3902200,108359,279281.2,279281.2,0,0,22.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Lingey House Primary School,3902205,108360,221847.4,221847.4,0,0,10.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,The Drive Community Primary School,3902213,108361,11190.83,11190.83,0,0,1.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,White Mere Community Primary School,3902214,108362,-184807.2,0,-184807.2,0,-22.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Clover Hill Community Primary School,3902216,108363,137114,137114,0,0,14.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Crookhill Community Primary School,3902219,108366,10091.97,10091.97,0,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Brighton Avenue Primary School,3902221,108368,13374.3,13374.3,0,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Lobley Hill Primary School,3902222,108369,50460.73,50460.73,0,0,2.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Wardley Primary School,3902224,108371,113123.7,113123.7,0,0,7.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Glynwood Community Primary School,3902225,108372,121482.1,121482.1,0,0,5.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Barley Mow Primary School,3902226,108373,7529.2,7529.2,0,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Windy Nook Primary School,3902227,108374,120907.3,120907.3,0,0,8.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Colegate Community Primary School,3902228,108375,-68711.08,0,-68711.08,0,-6.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Roman Road Primary School,3902229,108376,113806.8,113806.8,0,0,9.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Fellside Community Primary School,3902231,108378,41847.62,41847.62,0,0,4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Fell Dyke Community Primary School,3902232,108379,180147.4,180147.4,0,0,9.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Caedmon Community Primary School,3902233,108380,147627.3,147627.3,0,0,10.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Kells Lane Primary School,3902234,131106,82733.22,82733.22,0,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Chopwell Primary School,3902235,131107,162659.6,144617.1,0,18042.5,12.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Parkhead Community Primary School,3902236,131466,80725.21,80725.21,0,0,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Aidan's Church of England Primary School,3902237,132145,58487.28,58487.28,0,0,4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Harlow Green Community Primary School,3902238,131077,224201.9,224201.9,0,0,10.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Rowlands Gill Community Primary School,3902239,131081,-274824.8,0,-274824.8,0,-18.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Whickham Parochial Church of England Primary School,3903001,108381,-27870.38,0,-27870.38,0,-3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,Corpus Christi Catholic Primary School,3903313,108382,199876.9,199876.9,0,0,18.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Gateshead,3903317,108383,56853.98,56853.98,0,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Oswald's Roman Catholic Voluntary Aided Primary School,3903318,108384,166742.4,166742.4,0,0,14.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Peter's Roman Catholic Voluntary Aided Primary School,3903319,108385,57177.41,57177.41,0,0,5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Anne's Catholic Primary School,3903322,108386,-2708.47,0,-2708.47,0,-1.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Joseph's Catholic Junior School Birtley,3903324,108388,96159.28,96159.28,0,0,14.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Joseph's Catholic Infant School Birtley,3903325,108389,80656.36,80656.36,0,0,18.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Agnes' Catholic Primary School,3903326,108390,20323.55,20323.55,0,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Highfield,3903327,108391,78161.26,78161.26,0,0,13.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Mary and St Thomas Aquinas Catholic Primary School,3903328,108392,45365.32,45365.32,0,0,4.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Philip Neri Roman Catholic Primary School,3903330,108394,24511.44,24511.44,0,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Joseph's Catholic Primary School Blaydon,3903331,108395,59260.12,59260.12,0,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Mary's Roman Catholic Primary School,3903333,108396,38165.72,38165.72,0,0,4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Alban's Catholic Primary School,3903335,108398,25703.46,25703.46,0,0,2.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Augustine's Catholic Primary School,3903336,108399,180532.1,180532.1,0,0,11.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Primary,St Wilfrid's Roman Catholic Voluntary Aided Primary School,3903339,108400,11088.22,11088.22,0,0,1.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Secondary,Kingsmeadow Community Comprehensive School,3904041,108410,725736.6,725736.6,0,0,12
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Special,Furrowfield School,3907006,108426,130334.9,130334.9,0,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Special,Gibside School,3907007,131213,776625.1,776625.1,0,0,22.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Special,Hill Top School,3907008,130942,-169327.7,0,-169327.7,0,-7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Special,Dryden School,3907009,131200,-117707.1,0,-117707.1,0,-10.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Gateshead,390,E08000037,Special,Eslington Primary School,3907010,133397,-110644.6,0,-110644.6,0,-7.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Nursery,Ashfield Nursery School,3911000,108427,73235.97,1420,68445.97,3370,11.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Nursery,Cruddas Park Early Years Centre,3911001,108428,-155551.6,3874.5,-183761.6,24335.5,-63.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Nursery,Newburn Manor Nursery School,3911004,108430,121021.1,42854.57,79531.15,-1364.57,26.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Nursery,Monkchester Road Nursery School,3911005,108431,201176.2,53080,148096.2,0,25.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Dinnington First School,3912000,108437,1770.71,0,-709.29,2480,0.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Archibald First School,3912001,108438,168659.3,0,170740.5,-2081.2,11.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,South Gosforth First School,3912002,108439,74643.54,0,74643.54,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Regent Farm First School,3912003,108440,259535.8,1129,245375.8,13031,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Gosforth Park First School,3912005,108442,9212.6,0,9212.6,0,0.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Broadway East First School,3912006,108443,126147.6,65140,59187.58,1820,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Grange First School,3912009,108444,60910.76,0,40089.67,20821.09,4.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Throckley Primary School,3912012,108446,249686.8,0,249686.8,0,13.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Newburn Manor Primary School,3912013,108447,154103.4,82092,72011.43,0,14.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,West Denton Primary School,3912015,108449,253572.3,66075.98,186978.3,518.02,14.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Knop Law Primary School,3912016,108450,17501.51,0,17501.51,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Milecastle Primary School,3912017,108451,71886.58,39300,32586.58,0,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Waverley Primary School,3912020,108453,9113.75,1480,7633.75,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Simonside Primary School,3912021,108454,117263.9,0,117263.9,0,7.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Lemington Riverside Primary School,3912030,108456,-38656.2,0,-39656.2,1000,-4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Westerhope Primary School,3912031,108457,159996.1,625.7,135736.1,23634.3,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Byker Primary School,3912032,108458,319028.2,163886.6,155141.7,0,11.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,West Jesmond Primary School,3912033,131203,128991.5,0,-69315.94,198307.4,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Benton Park Primary School,3912050,108459,49425.59,13604.46,33261.83,2559.3,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Hawthorn Primary School,3912080,108460,256128.3,88874,167254.3,0,17
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Canning Street Primary School,3912090,108461,592444.9,81067.91,592444.9,-81067.91,23.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Chillingham Road Primary School,3912100,108463,127502.4,51997.87,71288.4,4216.13,10.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Cragside Primary School,3912170,108465,137174,0,137174,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Bridgewater Primary School,3912210,108466,266406.6,144850,49597.89,71958.74,9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Broadwood Primary School,3912225,108468,223117.4,13850,209267.4,0,13.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Ravenswood Primary School,3912670,108475,349685.3,50364,299321.3,0,13.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Johns Primary School,3912720,108476,244340,106973.9,181220,-43853.93,16.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Wingrove Primary School,3912960,108487,224757.8,101900,122857.8,0,10.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Hotspur Primary School,3912998,108491,327197.2,114073.2,208917.2,4206.83,14.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Moorside Primary School,3912999,108492,403134.1,103500,299634.1,0,16.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Christ Church CofE Primary School,3913321,108493,39270.36,3060,36210.36,0,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Archbishop Runcie CofE First School,3913471,108495,-56854.92,0,-56854.92,0,-7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Charles' RC Primary School,3913472,108496,161855.3,88289.35,62447.27,11118.65,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Oswald's RC Primary School,3913473,108497,47374.12,20790,26584.12,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Mark's RC Primary School,3913474,108498,115011.8,11520,103491.8,0,9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St George's RC Primary School,3913475,108499,128401,5680,125491,-2770,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Cuthbert's RC Primary School,3913476,108500,113016.6,35650.82,77165.57,200.18,12.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St John Vianney RC Primary School,3913477,108501,123849.5,27900,95949.52,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Paul's CofE Primary School,3913485,108502,110170.7,0,109937.9,232.81,7.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,English Martyrs' RC Primary School,3913650,108503,410189.3,31028.73,304425.3,74735.27,18.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Sacred Heart RC Primary School,3913662,108504,25648.13,0,25648.13,0,13.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Bede's RC Primary School,3913762,108505,149077.2,11520,137557.2,0,14.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Cuthbert's Catholic Primary School,3913765,108506,148278.6,34609.4,108878.6,4790.6,11.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Catherine's RC Primary School,3913778,108507,79998.55,0,75192.33,4806.22,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Joseph's Catholic Primary School,3913781,108508,66544.69,3510,63034.69,0,5.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Lawrence's RC Primary School,3913792,108509,122953.6,10540,112413.6,0,9.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Our Lady and St Anne's RC Primary School,3913799,108510,31861.28,0,27439.35,4421.93,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Teresa's Catholic Primary School,3913835,108513,225635.6,102062.4,116465.6,7107.61,21.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Vincent's RC Primary School,3913842,108514,590354.7,487630,102724.7,0,47.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,St Alban's RC Primary School,3913874,108515,133389.2,42880,90509.17,0,11
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Primary,Brunton First School,3913875,135286,233138.5,3229.18,229909.3,0,12.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Middle deemed secondary,Gosforth Central Middle School,3914190,108519,461998.2,146100,315898.2,0,18.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Middle deemed secondary,Gosforth East Middle School,3914305,108521,220106.6,0,218197.9,1908.7,9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Secondary,Walbottle Campus,3914430,108524,352741.3,35266.02,301231.3,16243.98,3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Secondary,Heaton Manor School,3914494,108531,-168592.9,0,-170772.9,2180,-4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Special,Hadrian School,3917034,131986,145107.5,0,145107.5,0,4.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Newcastle upon Tyne,391,E08000021,Special,Sir Charles Parsons School,3917035,131987,409190.3,16620,392570.3,0,10.7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Nursery,Sir James Knott Memorial Nursery School,3921001,108563,127497.8,96000,31497.77,0,22
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Pupil referral unit,Moorbridge,3921100,108565,57626.58,0,57626.58,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Cullercoats Primary School,3922000,108569,100523.1,6299.84,94223.25,0,4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Waterville Primary School,3922004,108571,-1802.43,0,-1802.43,0,-0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Percy Main Primary School,3922008,108572,19063.12,4987,14076.12,0,1.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,King Edward Primary School,3922013,108573,73344.31,6017.66,67326.65,0,3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Spring Gardens Primary School,3922016,108574,36370.17,18482,17888.17,0,1.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Riverside Primary School,3922021,108575,30262.31,15831,14431.31,0,3.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Monkhouse Primary School,3922022,108576,94047.72,17008,77039.72,0,8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Whitehouse Primary School,3922024,108577,70629.39,6219,64410.39,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Preston Grange Primary School,3922026,108578,7507.08,5492.66,2014.42,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Shiremoor Primary School,3922031,108579,282657.4,84936.29,197721.1,0,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Backworth Park Primary School,3922032,108580,190978.8,100275,90703.75,0,15.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Holystone Primary School,3922036,108581,-51480.93,0,-51480.93,0,-2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Westmoor Primary School,3922037,108582,88457.22,23038,65419.22,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Rockcliffe First School,3922041,108583,32198.39,2236,29962.39,0,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Appletree Gardens First School,3922042,108584,156094,61708,92347.56,2038.47,9.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Southridge First School,3922046,108585,221425.3,74206,147219.3,0,15.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Amberley Primary School,3922048,108586,7650.96,2982.43,4668.53,0,0.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Bailey Green Primary School,3922054,108587,433399.7,77863,163103.8,192432.9,16.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,South Wellfield First School,3922055,108588,98063.05,21168,76895.05,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Marine Park First School,3922058,108589,53663.73,0,53663.73,0,2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Coquet Park First School,3922059,108590,10936.11,5072,5864.11,0,1.2
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Langley First School,3922060,108591,129975.5,38657,91318.47,0,8.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Carville Primary School,3922062,108592,110274.7,23000,87274.73,0,9.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Wallsend Jubilee Primary School,3922065,108594,63297.06,28371,34926.06,0,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Battle Hill Primary School,3922068,108595,56437.34,19800,36637.34,0,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Richardson Dees Primary School,3922069,108596,108761.1,9598,99163.15,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Stephenson Memorial Primary School,3922070,108597,151577.7,3942,147635.7,0,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Redesdale Primary School,3922072,108599,86043.99,6541.36,79502.63,0,7.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Whitley Lodge First School,3922074,108600,31808.87,24375.2,7433.67,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Collingwood Primary School,3922076,108602,218403.3,83165,135238.3,0,11.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Balliol Primary School,3922077,108603,29797.76,0,29797.76,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Benton Dene Primary School,3922078,108604,-40889.31,0,-40889.31,0,-1.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Forest Hall Primary School,3922079,108605,406.61,8144,-7737.39,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Ivy Road Primary School,3922080,108606,-256734.1,1820,-258554.1,0,-30.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,New York Primary School,3922081,108607,361149.8,223708,137441.8,0,17.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Denbigh Community Primary School,3922082,108608,133090.9,12435,120655.9,0,6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Greenfields Community Primary School,3922083,108609,288.65,23101,-22812.35,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Hazlewood Community Primary School,3922084,108610,50505.38,99,50406.38,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Fordley Primary School,3922085,108611,-56252.19,0,-56252.19,0,-3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Burradon Community Primary School,3922086,108612,1211.09,0,1211.09,0,0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Hadrian Park Primary School,3922087,132141,167023.4,25234,141789.4,0,8.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Western Community Primary School,3922088,133384,21799.29,0,21799.29,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Christ Church CofE Primary School,3923301,108614,82362.53,19293,63069.53,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Bartholomew's Church of England Primary School (Aided),3923302,108615,3908.42,388,3520.42,0,0.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Cuthberts Roman Catholic Primary School Aided,3923305,108616,80916.39,9916,71000.39,0,7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Josephs Roman Catholic Primary School Aided,3923308,108617,211740,86283,125457,0,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Marys Roman Catholic Primary School Aided,3923309,108618,25990.56,2479,23511.56,0,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Marys Roman Catholic Primary School Aided,3923315,108620,79310.06,13020,66290.06,0,8.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Stephens Roman Catholic Primary School Aided,3923316,108621,35653.84,31586,4067.84,0,3.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Star of the Sea RC VA Primary,3923317,108622,142469.8,21520,120949.8,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Aidan's Roman Catholic Primary School,3923318,108623,656.77,0,656.77,0,0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Bernadettes Roman Catholic Primary School Aided,3923319,108624,56434.09,10649,45785.09,0,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,St Columbas Roman Catholic Primary School Aided,3923320,108625,31814.16,5975,25839.16,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Primary,Wallsend St Peter's CofE Aided Primary School,3923321,108626,142215.3,58203,84012.3,0,12.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Marden High School,3924006,108627,-478858.8,0,-478858.8,0,-10.5
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Norham High School,3924008,108628,-2197543,36885,-2234428,0,-69.8
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Middle deemed secondary,Marden Bridge Middle School,3924025,108635,-37948.82,6517,-32821.57,-11644.25,-1.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Middle deemed secondary,Valley Gardens Middle School,3924026,108636,331846.9,185870,145976.9,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Middle deemed secondary,Monkseaton Middle School,3924027,108637,29835.38,10186,19649.38,0,1.7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Whitley Bay High School,3924029,108638,416310.8,5477,410833.8,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,George Stephenson High School,3924030,108639,350165.3,112160,238005.3,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Burnside College,3924032,108640,534206.4,187000,347206.4,0,7.6
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Churchill Community College,3924033,108641,1672910,1325405,347505,0,20.9
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Monkseaton  High School,3924034,108642,-4309539,33401.78,-4342941,0,-126.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,John Spence Community High School,3924038,108644,555728.3,359970,195758.3,0,9.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Secondary,Longbenton High School,3924039,108645,-2092684,37157,-2129841,0,-39.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Middle deemed secondary,Wellfield Middle School,3925400,108649,113091,21355,91735.97,0,7
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Special,Woodlawn School,3927001,108652,49880.08,10047,39833.08,0,2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Special,Southlands School,3927002,108653,349852,229668,120184,0,14.2
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Special,Benton Dene School,3927004,108655,231878.7,25561.45,206317.3,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Special,Silverdale School,3927007,133432,68560.13,5036,63524.13,0,2.4
+201920,Financial year,School,England,E92000001,North East,E12000001,North Tyneside,392,E08000022,Special,Beacon Hill School,3927008,131544,149428.2,137807,11621.24,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Nursery,Clervaux Nursery School,3931010,108661,60053.64,8013,52040.64,0,12.3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Nursery,Helen Gibson Nursery School,3931016,108663,1706.91,12439,-10732.09,0,0.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Nursery,Boldon Nursery School,3931018,108665,27470.09,26780,690.09,0,5.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Nursery,The Sue Hedley Nursery School,3931021,132799,3639.53,42625.58,-38986.05,0,0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Pupil referral unit,Alternative Education Service - The Beacon Centre,3931100,108666,-153851.9,0,-153851.9,0,-12.2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Hadrian Primary School,3932000,108668,-29219.37,0,-29219.37,0,-1.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Westoe Crown Primary School,3932001,134187,165855.9,0,165855.9,0,5.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Sea View Primary School,3932002,134230,143720.9,0,143720.9,0,6.5
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Laygate Community School,3932015,108672,158410.2,87589,70821.18,0,10.1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Mortimer Primary School,3932017,108673,48635.13,51715,-3079.87,0,1.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Marine Park Primary School,3932020,108675,124949.3,39835,85114.31,0,10.2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Stanhope Primary School,3932023,108676,-10676.14,0,-10676.14,0,-0.8
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Biddick Hall Junior School,3932028,108678,65846.3,61355,4491.3,0,5.2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Biddick Hall Infants' School,3932033,108682,63349.96,0,63349.96,0,4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Ashley Primary School,3932038,108685,-85757.49,0,-85757.49,0,-3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Hedworth Lane Primary School,3932040,108686,17584.18,7318,10266.18,0,1.3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Marsden Primary School,3932042,108687,93500.84,47000,46500.84,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,East Boldon Infants' School,3932043,108688,46960.75,0,46960.75,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,East Boldon Junior School,3932050,108692,11285.62,0,11285.62,0,1.1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Bede Burn Primary School,3932055,108693,29520.8,0,29520.8,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Valley View Primary School,3932056,108694,27199.6,42000,-14800.4,0,2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Dunn Street Primary School,3932063,108695,15860.68,36134,-20273.32,0,1.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Simonside Primary School,3932073,108698,54119.38,43097,11022.38,0,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Hedworthfield Primary School,3932075,108699,114840.1,60000,54840.12,0,7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Lord Blyton Primary School,3932076,108700,-24311,0,-24311,0,-2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,West Boldon Primary School,3932080,108701,150187.5,104618,45569.52,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Toner Avenue Primary School,3932083,108704,-98181.65,0,-98181.65,0,-5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Fellgate Primary School,3932085,108706,-407809.1,0,-407809.1,0,-22.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Whitburn Village Primary School,3932086,131917,-19898.59,0,-19898.59,0,-1.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Oswald's CofE Aided Primary School,3933006,108711,-11269.32,0,-11269.32,0,-1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Jarrow Cross CofE Primary School,3933010,133680,187988.1,124921,63067.13,0,11.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Bede's RC Voluntary Aided Primary School South Shields,3933301,108715,-17167.76,0,-17167.76,0,-1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Gregory's RC Voluntary Aided Primary School,3933303,108716,71738.99,20716,51022.99,0,7.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,SS Peter and Paul RC Voluntary Aided Primary School,3933304,108717,-23339.12,0,-23339.12,0,-1.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Oswald's RC Voluntary Aided Primary School,3933305,108718,152478.4,110178,42300.4,0,13.6
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Aloysius' RC Voluntary Aided Junior School,3933306,108719,-0.17,0,-0.17,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Aloysius RC Voluntary Aided Infant School,3933307,108720,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Matthew's RC Voluntary Aided Primary School,3933311,108721,-96378.96,0,-96378.96,0,-9.3
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Mary's RC Voluntary Aided Primary School,3933312,108722,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St James' RC Voluntary Aided Primary School,3933313,108723,38322.42,17619,20703.42,0,3.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Joseph's RC Voluntary Aided Primary School,3933314,108724,-15309.48,0,-15309.48,0,-1.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,St Bede's RC Primary School Jarrow,3933315,108725,66728.58,48597,18131.58,0,5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Forest View Primary,3933318,135842,14309.6,5635,8674.6,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Hebburn Lakes Primary School,3933319,136163,320186.1,113612,206574.1,0,11.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Primary,Harton Primary School,3933320,136178,732417.7,0,732417.7,0,21.5
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Secondary,Mortimer Community College,3934006,108727,-185652.9,0,-185652.9,0,-3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Secondary,Boldon School,3934019,108730,-3243909,0,-3243909,0,-72.8
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Secondary,Hebburn Comprehensive School,3934026,108731,185784.8,185785,-0.2,0,4.4
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Secondary,Jarrow School,3934033,133725,106144.2,100000,6144.18,0,1.8
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Secondary,South Shields School,3934606,131756,80850.75,80850.75,0,0,2.2
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Special,Bamburgh School,3937000,108738,181199,181199,0,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Special,Epinay Business and Enterprise School,3937004,108741,223943,35311,188632,0,8.7
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Special,Park View School,3937006,134813,-170851.6,0,-170851.6,0,-12
+201920,Financial year,School,England,E92000001,North East,E12000001,South Tyneside,393,E08000023,Special,Keelman's Way School,3937007,136252,45272.61,0,45272.61,0,1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Millfield Community Nursery School,3941002,108745,-181795,0,-181404.7,-390.35,-173.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Houghton Le Spring Nursery School,3941003,108746,249122.3,248609.6,0,512.73,35
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Hetton-le-Hole Nursery School,3941005,108747,-140536.2,0,-140536.2,0,-33.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Hylton Red House Nursery School,3941006,108748,235149,329204.2,0,-94055.15,27.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Usworth Colliery Nursery School,3941007,108749,21317.22,21317.22,0,0,4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Hetton Lyons Nursery School,3941008,108750,5420.04,5420.04,0,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Oxclose Nursery School,3941009,108751,296521.1,296521.1,0,0,57.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Mill Hill Nursery School,3941011,108752,70308.32,70308.32,0,0,12.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Nursery,Pennywell Early Years Centre,3941012,108753,163511.8,163511.8,0,0,20.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Pupil referral unit,Ks1 Pupil Referral Unit,3941101,135639,-37.89,0,-37.89,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Pupil referral unit,The Link School,3941102,135640,32482.87,38802.82,0,-6319.95,1.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Pupil referral unit,The Link School Pallion,3941103,135641,-4391.33,0,-4391.33,0,-0.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Pupil referral unit,School Returners/Young Mums Provision,3941104,135642,4410.91,4410.91,0,0,1.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Barnes Junior School,3942002,108755,115283.5,115283.5,0,0,7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Broadway Junior School,3942004,108757,125522.9,121229.7,0,4293.16,9.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Northern Saints CofE Voluntary Aided Primary School,3942006,139425,670843.7,666225.9,0,4617.81,22.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Grangetown Primary School,3942010,108758,425646.5,373281.9,0,52364.65,26.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Fulwell Junior School,3942019,108763,72505.06,72505.06,0,0,4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Grange Park Primary School,3942021,108765,176486.9,181911.8,0,-5424.88,14.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Grindon Infant School,3942026,108766,68299.88,68299.88,0,0,6.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Southwick  Community Primary School,3942035,108769,269074.3,190683.8,0,78390.52,11
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Hudson Road Primary School,3942042,108772,81316.06,107227.3,0,-25911.2,4.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Dame Dorothy Primary School,3942070,108776,105347.9,102351,0,2996.87,8.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Willow Fields Community Primary School,3942088,108783,220289.4,220289.4,0,0,20.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Mill Hill Primary School,3942089,108784,144298.3,144298.3,0,0,7.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Seaburn Dene Primary School,3942092,108786,59481.79,47646.72,0,11835.07,5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Ryhope Junior School,3942093,108787,123399.8,123399.8,0,0,11.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Castletown Primary School,3942099,108792,257429.4,257429.4,0,0,13
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,East Rainton Primary School,3942104,108794,33648.66,33648.66,0,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Easington Lane Primary School,3942105,108795,129708.5,129708.5,0,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Usworth Colliery Primary School,3942115,108799,7200.73,7200.73,0,0,0.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Springwell Village Primary School,3942117,108800,37442.79,37442.79,0,0,3.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Hetton Primary School,3942126,108803,136410.5,136410.5,0,0,15.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Biddick Primary School,3942153,108816,97370.64,97370.64,0,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Lambton Primary School,3942157,108817,88377.76,88377.76,0,0,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Rickleton Primary School,3942158,108818,59107.25,59107.25,0,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Richard Avenue Primary School,3942159,108819,551730.1,551730.1,0,0,26.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Marlborough Primary School,3942167,108822,152970.3,155424,0,-2453.74,13.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Shiney Row Primary School,3942171,108826,191548.7,191548.7,0,0,14.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Thorney Close Primary School,3942174,108828,33977.45,33977.45,0,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Bernard Gilpin Primary School,3942176,108830,10058.51,10058.51,0,0,0.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Hylton Castle Primary School,3942178,108832,122941.8,119126.3,0,3815.42,9.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Blackfell Primary School,3942179,108833,129106.5,129106.5,0,0,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Barmston Village Primary School,3942181,108835,254295,254295,0,0,19.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Albany Village Primary School,3942182,131036,108616.9,108616.9,0,0,9.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Paul's CofE Primary School,3943005,108836,128335.4,128335.4,0,0,10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Benet's Roman Catholic Voluntary Aided Primary School,3943301,108837,70246.94,70246.94,0,0,4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Cuthbert's Roman Catholic Voluntary Aided Primary School,3943302,108838,183737.2,155566.1,0,28171.15,15.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Mary's Roman Catholic Voluntary Aided Primary School,3943306,108840,144550.9,136445,0,8105.91,7.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Sunderland,3943308,108841,55759.35,55759.35,0,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,English Martyrs' Roman Catholic Voluntary Aided Primary School,3943313,108842,201427.4,201426.9,0,0.5,18.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Anne's Roman Catholic Voluntary Aided Primary School,3943315,108843,94611.39,94784.28,0,-172.89,8.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St John Bosco Roman Catholic Voluntary Aided Primary School,3943316,108844,264672.2,264458.2,0,214,24.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Patrick's Roman Catholic Voluntary Aided Primary School,3943317,108845,52156.46,52156.46,0,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Leonard's Roman Catholic Voluntary Aided Primary School,3943319,108846,98468.31,98468.31,0,0,11.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Michael's Roman Catholic Voluntary Aided Primary School,3943323,108849,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Joseph's Washington RC School,3943326,108850,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Our Lady Queen of Peace Roman Catholic Voluntary Aided Primary School,3943327,108851,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St Bede's Roman Catholic Voluntary Aided Primary School,3943329,108852,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,St John Boste Roman Catholic Voluntary Aided Primary School,3943330,108853,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Primary,Wessington Primary School,3943332,134532,8152.8,0,-2598.16,10750.96,0.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Secondary,Hetton School,3944059,108862,237520.4,237520.4,0,0,5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Secondary,St Robert of Newminster Roman Catholic School,3944609,108870,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Special,Columbia Grange School,3947001,134184,172959,160165.9,0,12793.06,7
+201920,Financial year,School,England,E92000001,North East,E12000001,Sunderland,394,E08000024,Special,Sunningdale School,3947016,108882,386360.5,361349.8,0,25010.74,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Pupil referral unit,The Horizon School Hartlepool,8051100,131294,-246565,0,-246565,0,-40.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Ward Jackson Church of England VA Primary School,8052000,136943,-31364.47,0,-31364.47,0,-3.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Golden Flatts Primary School,8052126,111581,38744.97,38744.97,0,0,4.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Lynnfield Primary School,8052153,111590,145981.9,136656,0,9325.88,7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Fens Primary School,8052187,111600,199536.2,199536.2,0,0,10
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Kingsley Primary School,8052189,111601,82357.07,82357.07,0,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St Helen's Primary School,8052211,111605,317709.8,317709.8,0,0,18.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Throston Primary School,8052236,111612,72961.14,72961.14,0,0,3.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Clavering Primary School,8052238,111614,329337.6,329337.6,0,0,18
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Barnard Grove Primary School,8052310,111617,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Rift House Primary School,8052341,111640,56964.38,56964.38,0,0,3.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Rossmere Primary School,8052342,111641,-120459.1,0,-95348.84,-25110.26,-5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Grange Primary School,8052364,111661,123647.5,123647.5,0,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Greatham CofE Primary School,8053006,111673,98256.86,98256.86,0,0,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,Sacred Heart RC Primary School,8053321,111691,95816.99,95816.99,0,0,4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St Cuthbert's RC Primary School,8053322,111692,66620.42,66620.42,0,0,4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St Joseph's RC Primary School,8053323,111693,130159,130159,0,0,16.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St Teresa's RC Primary School,8053324,111694,137633.4,137633.4,0,0,8.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St Bega's RC Primary School,8053328,111697,58173.31,58173.31,0,0,5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Primary,St John Vianney RC Primary School,8053329,111698,2629.33,56441.81,0,-53812.48,0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Secondary,St Hild's Church of England Voluntary Aided School,8054000,133293,-1725452,0,-1725452,0,-36.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Secondary,High Tunstall College of Science,8054133,111748,-305835.2,0,-300884.1,-4951.06,-4.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Hartlepool,805,E06000001,Special,Springwell School,8057027,111785,211178.5,211178.5,0,0,9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Abingdon Primary School,8062000,131519,103898.9,103898.9,0,0,3.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Whinney Banks Primary School,8062002,134076,228888.7,228888.7,0,0,9.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Beech Grove Primary School,8062120,111577,115802.1,115802.1,0,0,4.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Newport Primary School,8062124,111580,269797.5,269797.5,0,0,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Newham Bridge Primary School,8062138,111585,78627.44,78627.44,0,0,4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Acklam Whin Primary School,8062139,111586,102616.2,102616.2,0,0,5.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Breckon Hill Primary School,8062141,111587,209441.6,209441.6,0,0,6.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Berwick Hills Primary School,8062326,111626,191284.4,191284.4,0,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Park End Primary School,8062332,111632,452912.6,452912.6,0,0,13.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Primary,Thorntree Primary School,8062333,111633,474302.8,474302.8,0,0,24.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Special,Priory Woods School,8067000,131425,361732.1,361732.1,0,0,8.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Special,Beverley School,8067003,111773,279516.9,279516.9,0,0,8.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Middlesbrough,806,E06000002,Special,Holmwood School,8067005,111775,371995.3,371995.3,0,0,18.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Pupil referral unit,Archway,8071100,111520,-82827.94,0,-82827.94,0,-4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Highcliffe Primary School,8072000,131457,49093.33,49093.33,0,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Lingdale Primary School,8072016,111531,78377.81,78377.81,0,0,11.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Lockwood Primary School,8072018,111533,67916,65610,0,2306,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Bankfields Primary School,8072207,111604,156943.5,156943.5,0,0,21.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Hummersea Primary School,8072311,111618,160484.7,160484.7,0,0,9.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Whale Hill Primary School,8072336,111635,225151,225151,0,0,17.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Newcomen Primary School,8072339,111638,164657.9,164657.9,0,0,9
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Grangetown Primary School,8072349,111647,463678.6,463678.6,0,0,56.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Belmont Primary School,8072365,111662,61009.37,61009.37,0,0,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Saltburn Primary School,8072366,111663,127665.7,127665.7,0,0,6.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Caedmon Primary School,8073389,134096,135757.5,135757.5,0,0,16.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,South Bank Community Primary School,8073394,134705,215058.7,215058.7,0,0,11.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Chaloner Primary School,8073396,131644,196535.9,193714.4,0,2821.5,15.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Primary,Handale Primary School,8073397,131645,-12398.61,0,-12398.61,0,-1.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Secondary,Laurence Jackson School,8074005,111724,-39753.66,0,-39753.66,0,-0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Secondary,Huntcliff School,8074007,111726,421179.6,421179.6,0,0,11.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Redcar and Cleveland,807,E06000003,Special,Kirkleatham Hall School,8077008,111777,538975.9,538975.9,0,0,15.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Pupil referral unit,Bishopton Centre,8081101,111521,-118845.8,0,-118845.8,0,-6.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Oakdene Primary School,8082000,131409,89632.29,0,89632.29,0,5.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,St Francis of Assisi CofE School,8082002,132810,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Myton Park Primary School,8082003,132808,91837.35,43108,48729.35,0,6.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,High Clarence Primary School,8082004,111523,44814.63,0,44814.63,0,6
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Billingham South Community Primary School,8082005,111524,157063.3,0,157063.3,0,6.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Preston Primary School,8082022,111535,101392.7,0,101392.7,0,7.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Mill Lane Primary School,8082030,111539,108051.8,0,108051.8,0,6.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Bowesfield Primary School,8082032,111540,71661.6,56216,15445.6,0,4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Whitehouse Primary School,8082056,111549,138685.8,0,138685.8,0,6.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,The Glebe Primary School,8082057,111550,154048.9,0,154048.9,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Durham Lane Primary School,8082080,111562,73248.71,0,73248.71,0,8.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Bewley Primary School,8082088,136093,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Oxbridge Lane Primary School,8082345,111644,100450.4,0,100450.4,0,4.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Ingleby Mill Primary School,8082362,130256,163114.6,0,163114.6,0,6.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Tilery Primary School,8082363,111660,65981.73,0,65981.73,0,3.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Mandale Mill Primary School,8082371,130378,67641.75,0,67641.75,0,3.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Prior's Mill Church of England Controlled Primary School Billingham,8083000,111667,54355.58,0,54355.58,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,St John the Baptist Church of England Voluntary Controlled Primary School,8083001,111668,133731,0,133731,0,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Thornaby-on-Tees Church of England Voluntary Controlled Primary School,8083002,111669,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,St Cuthbert's RC Voluntary Aided Primary School,8083312,111683,96860.53,0,96860.53,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,St Patrick's Roman Catholic Voluntary Aided Primary School,8083316,111687,121592.2,0,121592.2,0,10.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,William Cassidi Church of England Aided Primary School,8083392,111720,81776.41,12370,69406.41,0,9.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Fairfield Primary School,8083393,134621,101135.8,0,101135.8,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Barley Fields Primary,8083394,134708,271543.9,0,271543.9,0,9.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Harewood Primary School,8083395,134853,163064.9,0,163064.9,0,6.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Holy Trinity Rosehill CofE Voluntary Aided Primary School,8083396,131251,50882.28,50882.28,0,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Primary,Roseberry Primary School,8083397,135126,167859.5,0,167859.5,0,8.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Stockton-on-Tees,808,E06000004,Secondary,Northfield School and Sports College,8084102,111731,401109.9,0,401109.9,0,4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Oxhill Nursery School,8401014,113970,83135.03,83135.03,0,0,10.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Wingate Community Nursery School,8401016,113971,202046.2,202046.2,0,0,37
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Aclet Close Nursery School,8401018,113972,37720.72,37720.72,0,0,10.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Oxclose Nursery School,8401021,113973,30259.68,30259.68,0,0,7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Seaham Harbour Nursery School,8401023,113975,49365.58,49365.58,0,0,9.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Etherley Lane Nursery School,8401024,113976,76527.76,76527.76,0,0,26.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Langley Moor Nursery School,8401025,113977,17503.29,17503.29,0,0,5.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Beechdale Nursery School,8401033,113985,33738.13,33738.13,0,0,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Horden Nursery School,8401035,113986,148883.3,151383.3,0,-2500,26.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Rosemary Lane Nursery School,8401038,113989,119110.1,119110.1,0,0,22.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Nursery,Tudhoe Moor Nursery School,8401040,113991,138440.4,142503.2,0,-4062.82,35.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Pupil referral unit,The Woodlands,8401100,113992,0,0,0,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ropery Walk Primary School,8402000,113993,165252.3,165252.3,0,0,11.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Middlestone Moor Primary School,8402001,131886,170651,170651,0,0,12.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,North Park Primary School,8402003,132172,62178.35,62178.35,0,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Seascape Primary School,8402004,133701,173964.8,165474.7,0,8490.07,9.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Pelton Community Primary School,8402005,134078,121976.1,116850.4,0,5125.74,6.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Westlea Primary School,8402043,113998,121710.6,121074.7,0,635.89,8.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Edmondsley Primary School,8402105,114001,32788.45,32788.45,0,0,3.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Lumley Junior School,8402107,114002,111472.2,111472.2,0,0,12.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Lumley Infant and Nursery School,8402108,114003,85671.05,85671.05,0,0,8.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,West Pelton Primary School,8402114,114004,63457.22,63457.22,0,0,13
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Nettlesworth Primary School,8402116,114005,17349.05,6641.06,0,10707.99,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Red Rose Primary School,8402125,114008,171277.8,171277.8,0,0,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Woodlea Primary School,8402126,114009,147026,147026,0,0,13.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cestria Primary School,8402133,114012,146923.6,146923.6,0,0,7.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bournmoor Primary School,8402146,114018,61290.04,61290.04,0,0,9.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cotherstone Primary School,8402185,114020,20967.24,20967.24,0,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Beamish Primary School,8402205,114021,73442.88,72915.88,0,527,12.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Collierley Primary School,8402208,114022,145472.5,145472.5,0,0,14.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Catchgate Primary School,8402210,114023,200898.3,721274.1,0,-520375.9,12.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Annfield Plain Junior School,8402212,114024,18707.62,18707.62,0,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Annfield Plain Infant School,8402213,114025,119135.4,119135.4,0,0,16.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,East Stanley School,8402217,114026,52738.41,52574.87,0,163.54,4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Stanley Burnside Primary School,8402232,114033,201930.3,201930.3,0,0,15.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Burnopfield Primary School,8402234,114035,105400.1,105400.1,0,0,5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Shotley Bridge Primary School,8402257,114038,166040.4,162668.9,0,3371.5,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Leadgate Primary School - Split Site,8402259,114039,89679.2,89613.2,0,66,7.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Burnhope Primary School,8402261,114041,22864.89,20394.89,0,2470,3.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Castleside Primary School,8402266,114043,47766.23,47766.23,0,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,The Grove Primary School,8402269,114046,30408.94,51626.58,0,-21217.64,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Delves Lane Primary School,8402272,114047,43198,43198,0,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Moorside Primary School,8402276,114050,129581.6,129110.6,0,471,14.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Consett Junior School,8402277,114051,99941.62,99797.36,0,144.26,9.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Consett Infant School,8402278,114052,79563.21,79658.21,0,-95,8.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Hamsterley Primary School,8402301,114053,2122.24,2122.24,0,0,0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Hunwick Primary School,8402302,114054,-25348.3,0,-25348.3,0,-3.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Tow Law Millennium Primary School,8402307,114055,44777.59,33537.06,0,11240.53,6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Crook Primary School,8402308,114056,15329.94,15329.94,0,0,0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Peases West Primary School,8402311,114058,-32544.02,0,-32544.02,0,-4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Stanley (Crook) Primary School,8402313,114059,119498,119498,0,0,14.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Sunnybrow Primary School,8402316,114060,192484.2,192484.2,0,0,30.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Howden-le-Wear Primary School,8402318,114061,21602.5,21176.51,0,425.99,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Frosterley Primary School,8402319,114062,129432.5,115522.5,0,13910.06,28.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Rookhope Primary School,8402321,114063,78833.89,78833.89,0,0,35.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St John's Chapel Primary School,8402322,114064,57637.1,57637.1,0,0,24.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Wearhead Primary School,8402324,114065,72979.21,72979.21,0,0,27.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Willington Primary School,8402326,114066,223246.8,223246.8,0,0,16.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Witton-le-Wear Primary School,8402328,114067,-8765.54,0,-8765.54,0,-1.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Wolsingham Primary School,8402329,114068,187712.7,182360.5,0,5352.23,18.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Oakley Cross Primary School and Nursery,8402330,114069,119844,119844,0,0,13.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Byers Green Primary School,8402351,114070,123596.6,123596.6,0,0,21.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bluebell Meadow Primary School,8402357,114071,-77928.76,0,-77928.76,0,-4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Kirk Merrington Primary School,8402361,114074,25412.2,25412.2,0,0,3.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cassop Primary School,8402362,114075,80213.12,73798.25,0,6414.87,9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ferryhill Station Primary School,8402368,114078,-22694.24,0,-22694.24,0,-3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,West Cornforth Primary School,8402370,114079,403492.6,405092.1,0,-1599.45,33.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Coxhoe Primary School,8402372,114080,61687.51,61687.51,0,0,4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Kelloe Primary School,8402374,114081,39729.02,39729.02,0,0,5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Dean Bank Primary and Nursery School,8402385,114086,151037.2,152137.2,0,-1100,13.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bowburn Primary School,8402388,114087,-54659.09,0,-54659.09,0,-4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bowburn Infant School,8402389,114088,558193.2,558193.2,0,0,56.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ox Close Primary School,8402394,114091,2190.58,2190.58,0,0,0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Fishburn Primary School,8402399,114095,42342.3,41492.3,0,850,4.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Broom Cottages Primary & Nursery School,8402400,114096,75474.35,75474.35,0,0,4.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Etherley Lane Primary School,8402401,114097,183282.8,183175.8,0,107.08,12.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ramshaw Primary School,8402409,114099,15838.84,15838.84,0,0,3.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Forest of Teesdale Primary School,8402410,114100,68997.41,68997.41,0,0,33.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Aycliffe Village Primary School,8402411,114101,48920.87,44920.87,0,4000,6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Butterknowle Primary School,8402413,114102,107396.5,110389.9,0,-2993.36,23.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Escomb Primary School,8402417,114103,96824.21,96824.21,0,0,9.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Helen Auckland Community Primary School,8402419,114104,-11925.98,0,-11925.98,0,-1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Thornhill Primary School,8402423,114106,104139.4,94027.14,0,10112.28,8.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Toft Hill Primary School,8402426,114107,95134.31,65424.46,0,29709.85,9.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Woodland Primary School,8402428,114108,108177.4,108177.4,0,0,31
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Middleton-in-Teesdale Nursery and Primary School,8402430,114109,31194.35,31121.41,0,72.94,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cockton Hill Junior School,8402433,114110,271217,271217,0,0,23.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cockton Hill Infant School,8402434,114111,243675.8,242175.8,0,1500,23.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Timothy Hackworth Primary School,8402438,114113,209986.4,207812.4,0,2174,8.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cockfield Primary School,8402440,114114,69385.43,0,-56771,126156.4,9.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Montalbo Nursery & Primary School,8402442,114115,31221.9,31221.9,0,0,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,New Brancepeth Primary School,8402453,114119,-1735.89,0,-1735.89,0,-0.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Langley Moor Primary School,8402455,114120,58693.03,58643.03,0,50,6.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Witton Gilbert Primary School,8402462,114122,35835.83,32736.83,0,3099,3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Pittington Primary School,8402470,114125,86892.9,83613.75,0,3279.15,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ludworth Primary School,8402472,114126,84940.05,79527.48,0,5412.57,14
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Sherburn Primary School,8402473,114127,121965.1,121965.1,0,0,13.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,West Rainton Primary School,8402475,114128,176371.3,175887.8,0,483.5,18.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bearpark Primary School,8402477,114129,89068.72,89068.72,0,0,11.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Neville's Cross Primary School,8402481,114130,156686.4,155453.8,0,1232.6,9.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Durham Newton Hall Infants' School,8402488,114134,43362.84,43362.84,0,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Esh Winning Primary School,8402497,114138,53972.39,0,-14501.52,68473.91,3.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Belmont Cheveley Park Primary School,8402498,114139,98801.89,93121.75,0,5680.14,7.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Laurel Avenue Community Primary School,8402499,114140,93266.47,89496.47,0,3770,12.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Hesleden Primary School,8402509,114143,86522.11,69488.38,0,17033.73,12.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Deaf Hill Primary School,8402516,114144,32264.19,34947.19,0,-2683,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Thornley Primary School,8402523,114146,122525,122525,0,0,10.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Wheatley Hill Community Primary School,8402526,114147,34894.98,0,-2490.77,37385.75,1.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Wingate Primary School,8402531,114149,148542.5,148542.5,0,0,7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cotsford Primary School,8402532,114150,-108891,0,-108891,0,-13.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Cotsford Infant School,8402534,114151,264486.2,264448.7,0,37.55,56.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Shotton Primary School,8402536,114152,186876.2,167316.7,0,19559.53,9.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Acre Rigg Infant School,8402540,114154,23682.4,23682.4,0,0,1.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Sedgefield Primary School,8402563,114159,56056.66,54790.31,0,1266.35,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Sedgefield Hardwick Primary School,8402593,114161,185120,180286.5,0,4833.5,15
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Copeland Road Primary School,8402704,114187,84687.52,80996.56,0,3690.96,10.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Andrew's Primary School,8402705,114188,123053.7,122640.1,0,413.57,12.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Byerley Park Primary School,8402706,114189,113279.8,113279.8,0,0,11.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Horndale Infants' School,8402708,114190,-15990.2,0,-15990.2,0,-2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Langley Park Primary School,8402729,114193,51440.43,49723,0,1717.43,4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Yohden Primary School,8402733,114197,72618.56,72618.56,0,0,7.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Howletch Lane Primary School,8402734,114198,121923.8,68969.48,0,52954.32,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Blackhall Primary School,8402737,114201,-44386.77,0,-44386.77,0,-2.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Vane Road Primary School,8402742,114206,209318.2,209318.2,0,0,10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Sugar Hill Primary School,8402743,114207,137676,137676,0,0,6.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Roseberry Primary and Nursery School,8402744,114208,144377.8,146007.8,0,-1630,11.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bullion Lane Primary School,8402745,114209,219283,219283,0,0,12.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Easington Colliery Primary School,8402746,114210,110209.9,92016.24,0,18193.69,3.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Durham Gilesgate Primary School,8402747,114211,77055.55,77055.55,0,0,7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Finchale Primary School,8402748,130312,97137.35,97137.35,0,0,10.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Benfieldside Primary School,8402749,114045,137896.1,137896.1,0,0,10
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,King Street Primary School,8402750,130946,270309.3,275730.4,0,-5421.14,21.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Framwellgate Moor Primary School,8402751,130940,83417.63,83401.79,0,15.84,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Newker Primary School,8402943,131233,221526.7,221526.7,0,0,10.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Chester-Le-Street CofE (Controlled) Primary School,8403031,114213,127727.2,127727.2,0,0,7.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ebchester CofE Primary School,8403063,114214,66145.6,61900.6,0,4245,12.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Stephen's Church of England Primary School,8403085,114216,-6111.58,0,-4451.58,-1660,-0.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Stanhope Barrington CofE Primary School,8403087,114217,-39040.47,0,-45392.86,6352.39,-4.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Green Lane Church of England Controlled Primary School,8403121,114219,37855,37517.1,0,337.9,3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Anne's CofE Primary School,8403123,114220,-28564.78,0,-27944.78,-620,-2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Evenwood CofE Primary School,8403130,114221,86191.17,86191.17,0,0,12.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Gainford CofE Primary School,8403131,114222,58941.06,58941.06,0,0,11
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Ingleton CofE Primary School,8403134,114225,30613.43,0,-47367.68,77981.11,7.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Staindrop CofE (Controlled) Primary School,8403141,114226,101146.5,88926.31,0,12220.18,10.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Belmont CofE (Controlled) Primary School,8403161,114227,173553.9,134260.6,0,39293.34,12.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Oswald's Church of England Aided Primary and Nursery School,8403165,114228,229659.6,229679.6,0,-20,27.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Shincliffe CofE (Controlled) Primary School,8403167,114229,55723.84,55723.84,0,0,6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Margaret's Church of England Primary School,8403168,114230,194586.7,194586.7,0,0,10
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Easington CofE Primary School,8403182,114231,60412.66,62736.66,0,-2324,8.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Hutton Henry CofE (Controlled) Primary School,8403183,114232,70989.06,70989.06,0,0,13.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Lanchester Endowed Parochial Primary School,8403213,131168,30122.01,30122.01,0,0,1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Cuthbert's Roman Catholic Voluntary Aided Primary School New Seaham,8403300,114235,69873.78,69873.78,0,0,7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary Magdalen's Roman Catholic Voluntary Aided Primary School Seaham,8403301,114236,159798.8,159798.8,0,0,11.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bowes Hutchinson's CofE (Aided) School,8403303,114237,51822,47944.93,0,3877.07,13.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Cuthbert's Roman Catholic Voluntary Aided Primary School,8403343,114242,25057.15,24930.65,0,126.5,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Bede's Roman Catholic Voluntary Aided Primary School Sacriston,8403344,114243,19372.93,18999.43,0,373.5,3.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Benet's Roman Catholic Voluntary Aided Primary School,8403346,114244,13010.37,13010.37,0,0,1.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Stanley,8403381,114245,169092.6,167892.6,0,1200,15.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Patrick's Roman Catholic Voluntary Aided Primary School Dipton,8403382,114246,157239.9,157239.9,0,0,17.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary's Roman Catholic Voluntary Aided Primary School South Moor,8403384,114247,94294.09,94294.09,0,0,11.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary's Roman Catholic Voluntary Aided Primary School Blackhill,8403401,114248,61622.58,61622.58,0,0,6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Pius X Roman Catholic Voluntary Aided Primary School,8403403,114249,64872.73,72438.73,0,-7566,9.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Patrick's Roman Catholic Voluntary Aided Primary School Consett,8403404,114250,99665.99,99665.99,0,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Esh CofE (Aided) Primary School,8403406,114251,21594.03,21594.03,0,0,3.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Michael's Roman Catholic Voluntary Aided Primary School Esh Laude,8403407,114252,97686.95,52898.91,0,44788.04,10.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady and St Joseph's Roman Catholic Voluntary Aided Primary School Brooms,8403409,114253,106538.3,106538.3,0,0,15.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Bishop Ian Ramsey CofE Primary School,8403411,114254,77130.19,77130.19,0,0,13.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,All Saints' Catholic Voluntary Aided Primary School,8403413,114255,88218.86,88218.86,0,0,10.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Cuthberts Roman Catholic Voluntary Aided Primary School,8403421,114256,68935.75,68905,0,30.75,6.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady and St Thomas Roman Catholic Voluntary Aided Primary,8403425,114257,-18755.71,0,-18755.71,0,-2.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St. Michael's C of E Primary School,8403441,114258,585369.2,585369.2,0,0,46.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St William's Roman Catholic Voluntary Aided Primary School,8403442,114259,91521.75,91521.75,0,0,29.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Charles' Roman Catholic Voluntary Aided Primary School,8403444,114260,86772.71,86772.71,0,0,8.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary's Roman Catholic Voluntary Aided Primary School Barnard Castle,8403461,114261,56754.88,56707.38,0,47.5,10
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Wilfrid's Roman Catholic Voluntary Aided Primary School,8403462,114262,98611.47,93017.22,0,5594.25,7.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Chad's Roman Catholic Voluntary Aided Primary School,8403465,114263,53741.35,53741.35,0,0,9.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Coundon,8403469,114264,39304.83,39304.83,0,0,5.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary's Roman Catholic Voluntary Aided Primary School Newton Aycliffe,8403470,114265,191313.6,191313.6,0,0,18
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St. Francis CE (Aided) Junior School,8403472,114267,148386.2,148386.2,0,0,18.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Patrick's Roman Catholic Voluntary Aided Primary School,8403481,114268,39516.62,38413.42,0,1103.2,7.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady Queen of Martyrs Roman Catholic Voluntary Aided Primary School Newhouse,8403483,114269,14495.22,14495.22,0,0,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Hild's College Church of England Aided Primary School Durham,8403485,114270,174162.4,174162.4,0,0,16.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Godric's Roman Catholic Voluntary Aided Primary School Durham,8403486,114271,134014,134014,0,0,13.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Ushaw Moor,8403488,114272,55939.91,55939.91,0,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Durham,8403489,114273,72216.2,72216.2,0,0,9.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Blue Coat CofE (Aided) Junior School,8403491,114274,158511.8,158906.8,0,-395,12.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Thomas More Roman Catholic Voluntary Aided Primary,8403492,114275,-25381.47,0,-25381.47,0,-4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Catholic Primary School Murton,8403501,114276,111951.3,111951.3,0,0,14
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Godric's Roman Catholic Voluntary Aided Primary School Thornley,8403502,114277,47422.47,47422.47,0,0,8.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady of Lourdes Roman Catholic Voluntary Aided Primary,8403504,114278,62975.53,62975.53,0,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Mary's Roman Catholic Voluntary Aided Primary School Wingate,8403505,114279,32420.52,31740.52,0,680,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St Joseph's Roman Catholic Voluntary Aided Primary School Blackhall,8403506,114280,25628.56,25628.56,0,0,4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady Star of the Sea Roman Catholic Voluntary Aided Primary,8403507,114281,191565.1,191565.1,0,0,25.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Our Lady of the Rosary Roman Catholic Voluntary Aided Primary,8403510,114282,54050.74,54050.74,0,0,33.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Blessed John Duckett Roman Catholic Voluntary Aided Primary,8403511,114283,52124.27,52124.27,0,0,11.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,St John's Church of England Aided Primary School Shildon,8403513,114285,88768.01,88768.01,0,0,6.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Prince Bishops Community Primary School,8403516,134855,52583.07,52583.07,0,0,4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Woodham Burn Community Primary School,8403518,109302,-3071.38,0,-3261.38,190,-0.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Silver Tree Primary School and Nursery,8403519,123350,26859.27,26859.27,0,0,2.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Seaview Primary School,8403520,129823,188177.5,188150.5,0,27,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Tanfield Lea Community Primary School,8403522,131545,256776,256278,0,498,16.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Woodhouse Community Primary School,8403523,131919,30920.69,30920.69,0,0,2.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Seaham Trinity Primary School,8403524,134657,247057.9,247057.9,0,0,11.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Brandon Primary School,8403525,135207,110388.3,98848.65,0,11539.67,6.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Primary,Shotton Hall Primary School,8403527,135838,224367.4,224173.9,0,193.5,11.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Seaham High School,8404019,114286,218531.8,218531.8,0,0,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Tanfield School Specialist College of Science and Engineering,8404099,114293,-957254.6,0,-957254.6,0,-22
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Wolsingham School,8404139,114297,-1708853,0,-1772500,63646.82,-42.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Bishop Barrington School A Sports with Mathematics College,8404162,114301,-153103.4,0,-153103.4,0,-2.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Greenfield Community College A Specialist Arts and Science School,8404176,114305,384500.3,377763.8,0,6736.52,5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Belmont Community School,8404185,114308,400106.8,413344.4,0,-13237.61,8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Durham Sixth Form Centre,8404191,114310,710175.2,738302.1,0,-28126.96,11
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Durham Community Business College for Technology and Enterprise,8404192,114311,-414310.3,0,-362579.3,-51731.04,-9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Durham Johnston Comprehensive School,8404200,114312,53057.51,48864.51,0,4193,0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Dene Community School,8404214,114313,-5662.73,0,-4965.03,-697.7,-0.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Wellfield School,8404218,114315,-3406297,0,-3342884,-63412.65,-66
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,Sedgefield Community College,8404231,114317,474624.1,468523.8,0,6100.33,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Secondary,St Bede's Catholic Comprehensive School and Byron College,8404693,114327,-1399793,0,-1399793,0,-37.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,The Meadows School,8407000,131905,407745.1,407745.1,0,0,21.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Elemore Hall School,8407006,114337,242473.5,242473.5,0,0,9.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Croft Community School,8407013,114340,119914,119647.9,0,266.11,3.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Walworth School,8407014,114341,264807.5,269020.5,0,-4213.01,10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Villa Real School,8407028,114345,564392.4,539111,0,25281.39,20
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Windlestone School,8407030,114347,325835.6,325835.6,0,0,10.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Durham Trinity School & Sports College,8407032,114349,269525.9,269525.9,0,0,6.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,The Oaks Secondary School,8407033,134662,376953.3,337044.9,0,39908.35,7.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Durham,840,E06000047,Special,Evergreen Primary School,8407034,134663,200250.1,200250.1,0,0,5.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Nursery,Borough Road Nursery School,8411030,113982,47364.88,0,47364.88,0,5.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Pupil referral unit,Rise Carr College,8411100,131629,83722.79,0,83722.79,0,5.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Primary,Red Hall Primary School,8412669,114183,251906.2,0,251906.2,0,17.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Primary,St Teresa's RC Primary School,8413309,114241,235775.3,0,235775.3,0,32.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Primary,Whinfield Primary School,8413515,134719,245062.6,0,245062.6,0,9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Darlington,841,E06000005,Primary,Harrowgate Hill Primary School,8413517,135088,186752.5,0,183752.5,3000,7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Pupil referral unit,Northumberland Pupil Referral Unit,9291100,132130,23655.6,0,23655.6,0,2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Acomb First School,9292002,122170,-21453.92,0,-21453.92,0,-5.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Allendale Primary School,9292009,122171,96.44,0,96.44,0,0
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Swansfield Park Primary School,9292015,122172,-33706,0,-33706,0,-2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Amble Links First School,9292018,122173,77374.24,0,77374.24,0,8.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Amble First School,9292019,122174,60600.12,0,60600.12,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Bedlington West End Primary School,9292030,122176,53148.67,0,53148.67,0,4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Bedlington Station Primary School,9292032,122177,88491.61,0,88491.61,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Stakeford Primary School,9292033,122178,-39514.04,0,-39514.04,0,-4.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Cambois Primary School,9292035,122179,-19695.08,0,-19695.08,0,-3.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Choppington Primary School,9292037,122180,14496.01,0,14496.01,0,2.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Stead Lane Primary School,9292041,122181,142136.9,0,142136.9,0,11.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Bellingham Primary School,9292043,122183,30990.9,0,30990.9,0,8.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Spittal Community School,9292046,122185,94958.15,0,98537.15,-3579,10.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Tweedmouth West First School,9292047,122186,11342.28,0,11342.28,0,1.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Tweedmouth Prior Park First School,9292050,122187,68196.34,0,68196.34,0,7.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Branton Community Primary School,9292053,122188,35901.07,8086,27815.07,0,13.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Broomley First School,9292056,122189,28377.16,0,28377.16,0,9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,West Woodburn First School,9292070,122190,70389.49,46128,24261.49,0,32.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Eastlea Primary School,9292074,122191,-111102.5,0,-111102.5,0,-10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Beaconhill Community Primary School,9292076,122193,16914.68,0,16914.68,0,1.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Cramlington Shanklea Primary School,9292077,122194,-156810.9,0,-156810.9,0,-8.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Holywell Village First School,9292091,122195,103911.5,0,103911.5,0,13.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Broomhill First School,9292098,122196,39634.56,0,39634.56,0,7.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Red Row First School,9292101,122197,36509.36,0,36509.36,0,4.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Ellington Primary School,9292103,122198,34427.34,0,34427.34,0,3.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Linton Primary School,9292105,122199,-10166.96,0,-10166.96,0,-3.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Stamfordham Primary School,9292138,122202,-504373.7,0,-504373.7,0,-97.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Hexham First School,9292142,122203,-43750.05,0,-21714.88,-22035.17,-5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Morpeth First School,9292185,122210,32158,0,32158,0,2.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Seahouses Primary School,9292207,122214,52342.53,0,52342.53,0,9.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Otterburn Primary School,9292209,122215,63671.27,6000,42868.16,14803.11,16.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Pegswood Primary School,9292212,122216,16235.13,0,16235.13,0,1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Prudhoe Castle First School,9292217,122218,49383.24,0,33575.3,15807.94,24.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Mickley First School,9292219,122219,9441.76,0,10219.17,-777.41,3.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Rothbury First School,9292224,122221,-25345.05,0,-25345.05,0,-4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Beaufront First School,9292227,122222,-26647.66,0,-26647.66,0,-5.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Seaton Delaval First School,9292228,122223,115947.3,0,115947.3,0,10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,New Hartley First School,9292229,122224,18218.52,0,18218.52,0,2.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Seghill First School,9292232,122225,41629.87,0,41629.87,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Greenhaugh Primary School,9292234,122226,38905.83,4290,34615.83,0,14.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Slaley First School,9292236,122227,25659.32,0,25659.32,0,6.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Stannington First School,9292239,122228,19655.12,0,19655.12,0,3.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Cambo First School,9292246,122232,38280.96,0,38280.96,0,10.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Kielder Primary School and Nursery,9292254,122233,48611.24,17890,30721.24,0,19.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Seaton Sluice First School,9292268,122234,26596.5,0,26596.5,0,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Whittonstall First School,9292270,122235,15981.23,0,15981.23,0,9.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Wooler First School,9292277,122236,61078.01,0,44888.58,16189.43,7.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Wylam First School,9292278,122237,-2307.44,0,-2307.44,0,-0.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Shilbottle Primary School,9292281,122238,-12126.33,0,-12126.33,0,-1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Bothal Primary School,9292291,122239,46869.98,0,46869.98,0,1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Swarland Primary School,9292293,122240,88870.89,26298,62572.89,0,18.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,The Sele First School,9292299,122242,41022.6,0,27871.2,13151.4,2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Mowbray Primary School,9292323,122243,95823.99,0,95823.99,0,6.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Belford Primary School,9292325,122244,54567.5,0,42764.41,11803.09,10
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Morpeth Stobhillgate First School,9292360,122246,-59225.12,0,-59225.12,0,-7.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Ringway Primary School,9292370,122247,-38181.83,0,-38181.83,0,-4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Scremerston First School,9292372,122248,-11812.87,0,-11812.87,0,-2.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Horton Grange Primary School,9292397,122254,133454.4,0,133454.4,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,New Delaval Primary School,9292407,122258,158504.9,0,158504.9,0,11.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Newsham Primary School,9292415,122261,22415.88,0,22415.88,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Hipsburn Primary School,9292525,122264,97762.65,27636,70126.65,0,15.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Burnside Primary School,9292527,122266,97211.63,0,97211.63,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Hareside Primary School,9292529,122268,203368.4,0,203368.4,0,10.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Cramlington Northburn Primary School,9292530,122269,8782.46,0,8782.46,0,0.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Central Primary School,9292531,131021,-32371.32,0,-32371.32,0,-0.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Berwick St Mary's Church of England First School,9293046,122271,121526.8,61438,60088.77,0,18.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Chollerton Church of England Aided First School,9293065,122272,3115.86,0,3115.86,0,1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Felton Church of England Primary School,9293095,122273,-7475.19,0,-7475.19,0,-1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Henshaw Church of England Voluntary Aided Primary School,9293135,122276,-10990.05,0,-10990.05,0,-2.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Longhoughton Church of England Primary School,9293173,122277,-1352.29,0,-1352.29,0,-0.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Ovingham Church of England First School,9293210,122278,31565.49,0,31565.49,0,10.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Whittingham Church of England Primary School,9293264,122279,127667.7,121024,6643.72,0,21.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Michael's Church of England Primary School,9293312,122280,-463.15,0,-463.15,0,-0.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Bedlington Whitley Memorial Church of England Primary School,9293333,122281,86283.42,0,86283.42,0,5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Holy Trinity Church of England First School,9293346,122282,45632.9,0,45632.9,0,5.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Longhorsley St Helen's Church of England Aided First School,9293347,122283,-4826.08,0,-4826.08,0,-0.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Greenhead Church of England Primary School,9293349,122284,-112888.8,0,-112888.8,0,-36
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Broomhaugh Church of England First School,9293355,122285,47119.48,0,47119.48,0,10.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Corbridge Church of England Aided First School,9293367,122287,105689.1,23174,82515.13,0,14.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Ellingham Church of England Aided Primary School,9293403,122289,29644.52,0,29644.52,0,6.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Embleton Vincent Edwards Church of England Primary School,9293408,122290,-14873.36,0,-19728.36,4855,-4.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Hugh Joicey Church of England First School Ford,9293411,122291,13381.22,0,13381.22,0,3.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Whitley Chapel Church of England First School,9293443,122293,15647.77,0,15647.77,0,5.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Holy Island Church of England First School,9293447,122294,37617.39,15500,22117.39,0,24.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Humshaugh Church of England First School,9293454,122295,10731.95,0,10731.95,0,3.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Morpeth All Saints Church of England Aided First School,9293487,122297,-2547.58,0,-2547.58,0,-0.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Newbrough Church of England Primary School,9293492,122298,33624.64,0,33624.64,0,7.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Tritlington Church of England First School,9293542,122299,-30633.58,0,-30633.58,0,-9.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Wark Church of England Primary School,9293548,122300,8603.44,0,8603.44,0,2.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Warkworth Church of England Primary School,9293550,122301,74865.02,0,74865.02,0,12.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Whalton Church of England Aided Primary School,9293560,122302,-33885.17,0,-33885.17,0,-9.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Wilfrid's Roman Catholic Voluntary Aided Primary School,9293711,122304,144388.3,0,144388.3,0,9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Paul's RC Voluntary Aided Primary School,9293713,122305,54754.16,0,54754.16,0,5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Aidan's Roman Catholic Voluntary Aided Primary School,9293726,122307,15328.28,0,15328.28,0,1.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Bede's Roman Catholic Voluntary Aided Primary School,9293732,122308,98290.84,0,98290.84,0,9.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Cuthbert's Roman Catholic Voluntary Aided First School Berwick,9293746,122309,66884.55,25619,41265.55,0,13.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Mary's Roman Catholic Voluntary Aided First School,9293840,122311,-36391.98,0,-36391.98,0,-5.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,St Robert's Roman Catholic Voluntary Aided First School,9293888,122312,34893.61,0,19652.5,15241.11,4.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Cragside CofE Controlled Primary School,9293918,134473,-23835.2,0,-23835.2,0,-1.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Norham St Ceolwulfs CofE Controlled First School,9293920,135064,-17833.13,0,-17833.13,0,-7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Lowick Church of England Voluntary Controlled First School,9293922,131221,62266.87,30000,32266.87,0,17.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Primary,Grange View Church of England Voluntary Controlled First School,9293923,135634,9199.38,0,9199.38,0,1.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Corbridge Middle School,9294079,122326,84399.62,0,84399.62,0,5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Secondary,Haydon Bridge Community High School and Sports College,9294130,122328,-391988.9,0,-391988.9,0,-9.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Seaton Sluice Middle School,9294161,122334,52483.95,0,52483.95,0,3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Whytrig Community Middle School,9294162,122335,151746.5,36149,115597.5,0,11.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Highfield Middle School,9294198,122340,189245.2,0,189245.2,0,20.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Ovingham Middle School,9294199,122341,-138495.2,0,-138495.2,0,-19.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Tweedmouth Community Middle School,9294332,122348,228699.8,80690,148009.8,0,13.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Bellingham Middle School and Sports College,9294361,122350,-8309.96,0,-8309.96,0,-1.2
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Secondary,Prudhoe Community High School,9294369,122351,418182.3,0,418182.3,0,22.8
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Glendale Middle School,9294370,122352,67797,5400,62397,0,8.1
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,Berwick Middle School,9294404,122354,7185.91,0,7185.91,0,0.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Secondary,The Duchess's Community High School,9294438,122362,-986457.8,0,-986457.8,0,-11.3
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Secondary,James Calvert Spence College,9294439,122363,-412152.5,0,-412152.5,0,-8.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Middle deemed secondary,St Joseph's Roman Catholic Voluntary Aided Middle School,9294654,122369,130308.2,0,130308.2,0,7.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Secondary,Astley Community High School,9295400,122374,141665.3,0,121315.8,20349.48,3.9
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,Cleaswell Hill School,9297003,122382,393817.3,0,393817.3,0,11
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,Cramlington Hillcrest School,9297006,122383,264245,0,264245,0,14.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,Barndale House School,9297010,122384,-250312.5,0,-250312.5,0,-21.5
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,The Grove Special School,9297012,122385,59395.08,0,59395.08,0,5.6
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,The Dales School,9297021,122388,133600.4,0,133600.4,0,4.7
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,Collingwood School & Media Arts College,9297022,122389,343432.7,0,343432.7,0,12.4
+201920,Financial year,School,England,E92000001,North East,E12000001,Northumberland,929,E06000057,Special,Atkinson House School,9297024,132771,-129988.6,0,-129988.6,0,-8.7

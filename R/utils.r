@@ -12,3 +12,16 @@ open_connection <- function(server, database){
   return(con)
 }
 
+upload_data <- function(connection, filename, sqlTableName, datadir='./data/',overwrite=FALSE){
+  file <- paste(datadir,filename,sep='')
+  sqlTableName <- paste('dbo.',sqlTableName,sep='')
+  if (!(substr(sqlTableName,5,100) %in% sqlTables(connection)$TABLE_NAME) | overwrite==TRUE){
+    cat('Trying to read in from',file,'...  ')
+    dfin <- read.csv(file)
+    cat('Data read in successfully, now going to check upload to the SQL Server.',fill=TRUE)
+    sqlSave(connection, dfin, tablename=sqlTableName, rownames=FALSE, fast=TRUE, nastring='NA')
+  } else {
+    cat("Table ",sqlTableName," already present (overwrite=",overwrite,").",sep="",fill=TRUE)
+  }
+  
+}
